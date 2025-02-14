@@ -2,6 +2,14 @@
 
 Ce projet démontre comment utiliser la bibliothèque ML5.js pour classifier des images en utilisant un modèle MobileNet pré-entraîné. L'application permet aux utilisateurs de télécharger une image, qui est ensuite classifiée par le modèle. Le résultat de la classification est affiché à l'écran et lu à haute voix à l'aide de l'API Web Speech.
 
+## Collaborateurs 
+
+- Eric
+- Aldric
+- Antoine
+- Nicolas
+- Jérome
+
 ## Prise en main
 
 ### Prérequis
